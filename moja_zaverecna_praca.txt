@@ -1,3 +1,4 @@
 Dochádzkový systém 
 
 dochádzkový systém založený na face recognition.
+Rok obhajoby: 2020
