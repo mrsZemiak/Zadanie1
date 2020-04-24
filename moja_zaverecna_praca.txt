@@ -1,1 +1,3 @@
-Mobilná aplikácia na zachytávanie alergénov v ovdzuší
+Dochádzkový systém 
+
+dochádzkový systém založený na face recognition.
