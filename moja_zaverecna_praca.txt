@@ -1,4 +1,6 @@
-Dochádzkový systém 
+AlergenApp
 
-dochádzkový systém založený na face recognition.
-Rok obhajoby: 2020
+Mobilná aplikácia na synchronizáciu alergénov v danom mesiaci.
+
+
+Rok obhajoby: 2021
